@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Dallas, U.S.A"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "678 595 9118"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "naitikpatel147@gmail.com"
+    }
+  ]
